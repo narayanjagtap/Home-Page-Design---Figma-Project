@@ -6,7 +6,7 @@
 This project is a simple yet effective homepage layout designed to enhance **user experience (UX) and user interface (UI) design skills.** The design follows a **minimalist approach with a structured layout**, making it a great reference for future web development projects.  
 
 ## 📸 **Preview**  
-🔗 [**View the Figma Design**](https://www.figma.com/design/RDehQEXdeboDwhBo0phc6G/Untitled?node-id=4-26&p=f&t=Cunv398CYirhmzQ8-0)  
+# 🔗 [**View the Figma Design**](https://www.figma.com/design/RDehQEXdeboDwhBo0phc6G/Untitled?node-id=4-26&p=f&t=Cunv398CYirhmzQ8-0)
 
 ## 🛠 **Tools & Technologies Used**  
 - **Figma** – UI/UX design tool  
